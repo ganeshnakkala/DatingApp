@@ -288,6 +288,7 @@ FakesAssemblies/
 *.GhostDoc.xml
 
 # Node.js Tools for Visual Studio
+<<<<<<< HEAD
 .ntvs_analysis.dat              
 node_modules/
 
@@ -298,6 +299,11 @@ node_modules/
 /dist
 /out-tsc
 
+=======
+.ntvs_analysis.dat
+node_modules/
+
+>>>>>>> 4180131 (Revert ""feat(client): Initialize working skeleton for Angular client")
 # Visual Studio 6 build log
 *.plg
 
